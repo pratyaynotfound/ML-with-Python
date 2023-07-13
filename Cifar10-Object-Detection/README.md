@@ -107,7 +107,7 @@ Counts by Label: [  0. 321. 187. 462. 379.   0. 472.   0.   0. 179.]
 
 ```
 
-![cifar10 Plot](image.png)
+![cifar10 Plot](cifar10_plot.png)
 
 ## License
 This code is licensed under the MIT License.
