@@ -4,7 +4,7 @@ This code demonstrates the implementation of a Naive Bayes classifier for diabet
 
 ## Dataset
 
-The dataset used in this project is stored in the file [Naive-Bayes-Classification-Data.csv](link/to/dataset/Naive-Bayes-Classification-Data.csv). It contains the following columns:
+The dataset used in this project is stored in the file [Naive-Bayes-Classification-Data.csv](ML-with-Python/Naive Bayes Classifier for Diabetes Prediction/Naive-Bayes-Classification-Data.csv). It contains the following columns:
 
 - `glucose`: Glucose levels
 - `bloodpressure`: Blood pressure
