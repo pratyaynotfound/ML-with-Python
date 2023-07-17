@@ -71,6 +71,20 @@ Feel free to explore the code and the dataset to gain insights into object detec
 
 Please note that the code provided in this project assumes the existence of the CIFAR-10 dataset files and uses the `pickle` module for loading the data. If you have made any modifications or have additional files related to the CIFAR-10 object detection project, please update the description accordingly.
 
+### Project 3: Naive Bayes Classifier for Diabetes Prediction
+
+This project focuses on predicting the presence or absence of diabetes using a Naive Bayes classifier. The dataset used contains features related to glucose and blood pressure. The goal is to classify individuals as diabetic or non-diabetic based on these features.
+
+The project includes the following files:
+
+- `dbts_NB.py`: This file contains the code to load the diabetes dataset, split it into training and testing sets, create a Naive Bayes classifier, train the classifier, make predictions on the test set, and evaluate the model's accuracy. It also visualizes the data using a scatter plot.
+
+- `Naive-Bayes-Classification-Data.csv`: This CSV file contains the diabetes dataset with the following columns: glucose, bloodpressure, and diabetes.
+
+- `NB_Readme.md`: This file provides an overview of the project, its purpose, and instructions on how to use the code.
+
+
+
 
 Feel free to explore the project and its files for more details.
 
