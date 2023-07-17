@@ -106,6 +106,11 @@ Score: 1.0
 Counts by Label: [  0. 321. 187. 462. 379.   0. 472.   0.   0. 179.]
 
 ```
+## Current Work: Neural Network Version
+
+I am currently working on developing a neural network version for the CIFAR-10 object classification task. The Random Forest model yielded a low accuracy of 42%, indicating that a more complex model might be required to improve the classification performance. By implementing a neural network, I aim to leverage its ability to learn intricate patterns and improve the accuracy of the predictions.
+
+Stay tuned for updates on the neural network version of the CIFAR-10 object classification code!
 
 ![cifar10 Plot](cifar10_plot.png)
 
