@@ -95,3 +95,7 @@ Contributions to this repository are welcome. If you have any suggestions, impro
 ## License
 
 This repository is licensed under the MIT License. Feel free to use the code provided in this repository for your own learning purposes or projects.
+
+<!-- Authors -->
+## Contributors
+<a href="https://github.com/pratyaynotfound/Windows-11-Secure-boot-and-TPM-bypass/contributors">
