@@ -98,4 +98,4 @@ This repository is licensed under the MIT License. Feel free to use the code pro
 
 <!-- Authors -->
 ## Contributors
-<a href="https://github.com/pratyaynotfound/Windows-11-Secure-boot-and-TPM-bypass/contributors">
+<a href="https://github.com/pratyaynotfound/ML-with-Python/contributors">
