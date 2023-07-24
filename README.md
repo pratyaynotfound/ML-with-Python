@@ -54,7 +54,8 @@ The project includes the following files:
 - `random_samples.csv`: This CSV file contains randomly generated breast cancer samples.
 
 - `store.csv`: This CSV file stores the predicted class names from the analysis.
-- 
+
+
 ### Project 2: CIFAR-10 Object Detection using Random Forest
 
 This project focuses on performing object detection on the CIFAR-10 dataset using the Random Forest algorithm. The CIFAR-10 dataset is a collection of 60,000 32x32 color images in 10 different classes. The goal is to train a Random Forest classifier to classify images into their respective object categories.
@@ -71,6 +72,7 @@ Feel free to explore the code and the dataset to gain insights into object detec
 
 Please note that the code provided in this project assumes the existence of the CIFAR-10 dataset files and uses the `pickle` module for loading the data. If you have made any modifications or have additional files related to the CIFAR-10 object detection project, please update the description accordingly.
 
+
 ### Project 3: Naive Bayes Classifier for Diabetes Prediction
 
 This project focuses on predicting the presence or absence of diabetes using a Naive Bayes classifier. The dataset used contains features related to glucose and blood pressure. The goal is to classify individuals as diabetic or non-diabetic based on these features.
@@ -83,12 +85,10 @@ The project includes the following files:
 
 - `NB_Readme.md`: This file provides an overview of the project, its purpose, and instructions on how to use the code.
 
-### Project 4: Image Classification with Convolutional Neural Networks (CNN)
 
-This project focuses on implementing image classification using Convolutional Neural Networks (CNN). It involves training a CNN model on a dataset of images and classifying them into various categories. The project explores various CNN architectures, data augmentation techniques, and model evaluation methods. The code includes loading the dataset, creating and training the CNN model, making predictions, and visualizing the results.
+### Project 4: Iris Flower Classification using Support Vector Machines (SVM) and PCA
 
-Please note that the detailed code and files for "Project 4" are not provided in the given README.md. The above description serves as a placeholder to indicate that Project 4 is related to image classification using CNNs. You can further develop the project and update the README.md with specific code files, dependencies, and additional details.
-
+This project involves the classification of Iris flowers using the Support Vector Machine (SVM) algorithm and feature dimensionality reduction with Principal Component Analysis (PCA). The Iris dataset is loaded, split into training and testing sets, and an SVM classifier is trained on the features. PCA is then applied to reduce the feature dimensionality to 2 columns for visualization purposes. The project aims to accurately classify Iris flowers based on their features using SVM and explore the data in a 2D scatter plot.
 
 
 
