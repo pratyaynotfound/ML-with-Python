@@ -83,6 +83,12 @@ The project includes the following files:
 
 - `NB_Readme.md`: This file provides an overview of the project, its purpose, and instructions on how to use the code.
 
+### Project 4: Image Classification with Convolutional Neural Networks (CNN)
+
+This project focuses on implementing image classification using Convolutional Neural Networks (CNN). It involves training a CNN model on a dataset of images and classifying them into various categories. The project explores various CNN architectures, data augmentation techniques, and model evaluation methods. The code includes loading the dataset, creating and training the CNN model, making predictions, and visualizing the results.
+
+Please note that the detailed code and files for "Project 4" are not provided in the given README.md. The above description serves as a placeholder to indicate that Project 4 is related to image classification using CNNs. You can further develop the project and update the README.md with specific code files, dependencies, and additional details.
+
 
 
 
