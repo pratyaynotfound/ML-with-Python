@@ -60,7 +60,7 @@ Confusion Matrix:
 - The results indicate that the SVM classifier achieved reasonable accuracy in predicting passenger survival on the Titanic dataset. However, there is room for improvement, and additional exploration of the data and model tuning may lead to better performance.
 - Visualization: The scatter plot below visualizes the training data with two selected features, 'Age' and 'Fare', showing different colors for passengers who survived (1) and those who did not survive (0).
 
-[plt.img]
+[plt.img](Titanic_plot.png)
 
 Please note that the provided accuracy score and confusion matrix are specific to the current run of the code. If you run the code again, you may get slightly different results due to the random nature of certain operations, such as data splitting and SVM fitting.
 
