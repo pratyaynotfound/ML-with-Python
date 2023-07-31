@@ -21,7 +21,7 @@ cd titanic-svm-classifier
 ```bash
    pip install pandas scikit-learn matplotlib
 ```
-2. Download the Titanic dataset [train.csv] and place it in the same directory as the code.
+2. Download the Titanic dataset [train.csv](train.csv) and place it in the same directory as the code.
 
 3. Run the `titanic_surv.py` script to train the SVM classifier and make predictions on the test data.
 
