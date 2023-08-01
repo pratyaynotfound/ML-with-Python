@@ -68,5 +68,6 @@ Please note that the provided accuracy score and confusion matrix are specific t
 
 Contributions to this repository are welcome! If you have any improvements, bug fixes, or suggestions, please open an issue or submit a pull request.
 
+---
 
 Note: Make sure to update this README.md file with any changes to the code or additional features you add to the Titanic SVM Classifier repository.
